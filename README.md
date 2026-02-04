@@ -29,7 +29,7 @@ We use the **SSD MobileNet V2** architecture:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/RealTimeSignRecognition.git
+git clone https://github.com/deepika-vishwakarma09/Sign-Language-Recognition-Project.git
 cd RealTimeSignRecognition
 ```
 
